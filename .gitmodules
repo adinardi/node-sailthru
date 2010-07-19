@@ -1,0 +1,3 @@
+[submodule "lib/support/sequencer"]
+	path = lib/support/sequencer
+	url = git://github.com/adinardi/sequencer.git
